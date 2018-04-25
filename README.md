@@ -10,7 +10,7 @@ work: “Efﬁcient Antenna Patterns for Three-Sector WCDMA Systems”.
 ns-3.14.1
 
 ## How to
-replace the corresponding file by those in src.
+Replace the corresponding files by those in src.
 The file “wscript” should be placed in this folder “ns-allinone-3.14.1\ns-3.14.1\src\wifi”.
 
 wifi80211g.cc is an example on how to
